@@ -1,6 +1,6 @@
 {
-    "name": "xdis/try-make-package",
-    "description": "try make a package",
+    "name": "xdis/try-make-packages",
+    "description": "try make a packages",
     "type": "library",
     "license": "MIT",
     "authors": [
